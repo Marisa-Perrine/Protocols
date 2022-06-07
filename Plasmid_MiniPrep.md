@@ -11,7 +11,7 @@
 
 # Wash
 1. Add 500 µL of HBC Buffer (diluted with 100% isopropanol). Centrifuge at maximum speed for 1 minute. Discard the filtrate but reuse the collection tube. 
-2. Add 700 µL of DNA Wash Buffer (diluted with 100% ethanol). Centrifuge at maximum speed for 30 seconds. Discard the filtrate but reuse the collection tube. 
+2. Add 700 µL of DNA Wash Buffer (diluted with 100% ethanol). Centrifuge at maximum speed for 30 seconds. Discard the filtrate but reuse the collection tube. This step can be completed again for a total of two washes. 
 3. Centrifuge the empty DNA mini column at maximum speed for 2 minutes to remove trace ethanol.
 
 # Elute
